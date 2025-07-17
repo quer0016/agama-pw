@@ -5,7 +5,7 @@
 				"agamaData": {
 					"isTopLevelFlow": true,
 					"basepath": "",
-					"configParams": "{\n  \"maxLoginAttempt\": 6,\n  \"lockExpTime\": 180,\n  \"enableLock\": true\n}",
+					"configParams": "{\n  \"maxLoginAttempt\": 3,\n  \"lockExpTime\": 180,\n  \"enableLock\": true\n}",
 					"creationDate": "29/11/2024",
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "500",
@@ -33,7 +33,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": false,
+			"selected": true,
 			"deletable": false,
 			"dragging": false
 		},
@@ -576,7 +576,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -983,8 +983,8 @@
 		}
 	],
 	"viewport": {
-		"x": -843.8055107750345,
-		"y": -279.77202113459225,
-		"zoom": 0.8467453123625271
+		"x": 0,
+		"y": 0,
+		"zoom": 1
 	}
 }
